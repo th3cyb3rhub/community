@@ -17,7 +17,10 @@ jobs:
               <h3> 🌟 Welcome to the community 🌟 </h3>
               <h4> ⚡ Invitation sent to join the GitHub Organisation ⚡ </h4>
             </div>
-          
+            
+            - You can find your invitation from <a href="https://github.com/orgs/thecyberworld"> here</a>.
+            ![image](https://user-images.githubusercontent.com/97401889/178644092-9d35d31d-d28f-48b0-bce7-7fbb1d5cc752.png)
+
             - Don't forget after accepting to make it public, so it appears on your GitHub profile for everyone else to see.
             - You can do this by finding your name in the GitHub organisation list and change the dropdown to public https://github.com/orgs/thecyberworld/people.
 
